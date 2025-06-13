@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+input, button {
+    font-size: 18px;
+    margin: 10px;
+    padding: 8px;
+}
+
+#displayTime {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.warning {
+    color: red !important;
+}
